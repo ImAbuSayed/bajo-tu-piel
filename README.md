@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bajo-tu-piel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Bajo tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-tu-piel/) |
+| **Get License** | [Obtain a Music License for Bajo tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-tu-piel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bajo tu piel, me pierdo sin control
+> Bajo tu piel, se enciende mi pasión
+> Bajo tu piel, no encuentro salvación
+> Bajo tu piel, mi única obsesión
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

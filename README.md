@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bajo-tu-piel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Bajo tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-tu-piel/) |
+| **Get License** | [Official Music Licensing for Bajo tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-tu-piel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `36ea63b14d27417ffd3679686879c793fa0294bb1437ec34b0fca26b5ebe8c09` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

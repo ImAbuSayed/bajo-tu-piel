@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bajo tu piel
+
+This log tracks the cryptographic history and versioning for the song **Bajo tu piel** (bajo-tu-piel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T07:01:43.163410 | `v1` | `36ea63b14d27417ffd3679686879c793fa0294bb1437ec34b0fca26b5ebe8c09` | `63e18c427b38a20aec3a2d7425a4f53b91b138ca51c495ba31157896ae5c8929` | `2026-06-23_bajo-tu-piel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
